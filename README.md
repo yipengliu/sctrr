@@ -1,6 +1,6 @@
 # SCTRR
 
-Code for our paper "Smooth Compact Tensor Ring Regression" in IEEE Transactions on Knowledge and Data Engineering.
+Codes for our paper "Smooth Compact Tensor Ring Regression" in IEEE Transactions on Knowledge and Data Engineering.
 
 # Requirements
 
